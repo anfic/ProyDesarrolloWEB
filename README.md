@@ -1,5 +1,5 @@
 # Project-manager - Backend
-Proyecto de software para gestionar proyectos de investigacion
+Proyecto Final del Curso de Desarrollo WEB - ANDY CLARK FIGUEROA CASTILLO
 
 Ejecutar el siguiente codigo para generar las dependencias
 
